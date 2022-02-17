@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a_1">加载完毕，请登录...</string>
+</resources>
